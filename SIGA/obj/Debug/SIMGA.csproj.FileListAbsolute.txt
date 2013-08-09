@@ -1,0 +1,16 @@
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\bin\SIMGA.dll
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\bin\SIMGA.pdb
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\bin\Telerik.Web.UI.dll
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\bin\Telerik.Web.UI.Skins.dll
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\bin\Telerik.Web.UI.xml
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\obj\Debug\SIMGA.csprojResolveAssemblyReference.cache
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\obj\Debug\SIMGA.dll
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\obj\Debug\SIMGA.pdb
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIMGA\SIGA\bin\SIMGA.dll
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIMGA\SIGA\bin\SIMGA.pdb
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIMGA\SIGA\bin\Telerik.Web.UI.dll
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIMGA\SIGA\bin\Telerik.Web.UI.Skins.dll
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIMGA\SIGA\bin\Telerik.Web.UI.xml
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIMGA\SIGA\obj\Debug\SIMGA.csprojResolveAssemblyReference.cache
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIMGA\SIGA\obj\Debug\SIMGA.dll
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIMGA\SIGA\obj\Debug\SIMGA.pdb

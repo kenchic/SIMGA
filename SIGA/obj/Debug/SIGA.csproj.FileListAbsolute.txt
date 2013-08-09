@@ -1,0 +1,8 @@
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\bin\SIGA.dll
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\bin\SIGA.pdb
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\bin\Telerik.Web.UI.dll
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\bin\Telerik.Web.UI.Skins.dll
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\bin\Telerik.Web.UI.xml
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\obj\Debug\SIGA.dll
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\obj\Debug\SIGA.pdb
+C:\Users\German\Documents\Visual Studio 2012\Projects\SIGA\SIGA\obj\Debug\SIGA.csprojResolveAssemblyReference.cache

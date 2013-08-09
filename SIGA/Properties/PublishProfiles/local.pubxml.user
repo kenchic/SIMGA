@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Administrador/Administracion.aspx">
+      <publishTime>08/05/2013 16:30:12</publishTime>
+    </File>
+    <File Include="Administrador/Administrador.Master">
+      <publishTime>08/05/2013 08:01:47</publishTime>
+    </File>
+    <File Include="Administrador/CuentasAcceso.aspx">
+      <publishTime>08/05/2013 08:01:47</publishTime>
+    </File>
+    <File Include="Administrador/Default.aspx">
+      <publishTime>08/05/2013 08:20:43</publishTime>
+    </File>
+    <File Include="Administrador/Departamentos.aspx">
+      <publishTime>08/08/2013 09:32:20</publishTime>
+    </File>
+    <File Include="Administrador/Empresas.aspx">
+      <publishTime>08/05/2013 12:20:01</publishTime>
+    </File>
+    <File Include="Administrador/Fincas.aspx">
+      <publishTime>08/05/2013 14:33:17</publishTime>
+    </File>
+    <File Include="Administrador/Gremios.aspx">
+      <publishTime>08/08/2013 10:46:06</publishTime>
+    </File>
+    <File Include="Administrador/Lotes.aspx">
+      <publishTime>08/05/2013 12:20:39</publishTime>
+    </File>
+    <File Include="Administrador/Municipios.aspx">
+      <publishTime>08/08/2013 10:32:39</publishTime>
+    </File>
+    <File Include="Administrador/Paises.aspx">
+      <publishTime>08/08/2013 09:30:55</publishTime>
+    </File>
+    <File Include="Administrador/Perfiles.aspx">
+      <publishTime>08/05/2013 08:01:47</publishTime>
+    </File>
+    <File Include="Administrador/Secciones.aspx">
+      <publishTime>08/05/2013 08:01:47</publishTime>
+    </File>
+    <File Include="Administrador/SeccionesGremios.aspx">
+      <publishTime>08/08/2013 10:45:40</publishTime>
+    </File>
+    <File Include="Administrador/TipoAdministracion.aspx">
+      <publishTime>08/05/2013 16:07:54</publishTime>
+    </File>
+    <File Include="Administrador/TipoCultivo.aspx">
+      <publishTime>08/05/2013 16:08:13</publishTime>
+    </File>
+    <File Include="Administrador/TipoElementos.aspx">
+      <publishTime>08/05/2013 16:06:12</publishTime>
+    </File>
+    <File Include="Administrador/Usuarios.aspx">
+      <publishTime>08/05/2013 08:01:47</publishTime>
+    </File>
+    <File Include="Administrador/Visor.aspx">
+      <publishTime>08/08/2013 08:53:27</publishTime>
+    </File>
+    <File Include="Administrador/ZonaPlantacion.aspx">
+      <publishTime>08/08/2013 09:31:21</publishTime>
+    </File>
+    <File Include="bin/SIGA.dll">
+      <publishTime>08/02/2013 17:48:00</publishTime>
+    </File>
+    <File Include="bin/SIGA.pdb">
+      <publishTime>08/02/2013 17:48:00</publishTime>
+    </File>
+    <File Include="bin/SIMGA.dll">
+      <publishTime>08/08/2013 10:47:47</publishTime>
+    </File>
+    <File Include="bin/SIMGA.pdb">
+      <publishTime>08/08/2013 10:47:47</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.dll">
+      <publishTime>12/04/2012 16:01:32</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.Skins.dll">
+      <publishTime>12/04/2012 16:01:32</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_Administracion.ascx">
+      <publishTime>08/05/2013 17:10:37</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_Departamentos.ascx">
+      <publishTime>08/08/2013 09:29:27</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_Empresas.ascx">
+      <publishTime>08/05/2013 08:01:47</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_Fincas.ascx">
+      <publishTime>08/05/2013 08:01:47</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_Gremios.ascx">
+      <publishTime>08/08/2013 10:45:11</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_Lotes.ascx">
+      <publishTime>08/05/2013 08:01:47</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_Menu.ascx">
+      <publishTime>08/05/2013 08:01:47</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_Municipios.ascx">
+      <publishTime>08/08/2013 09:34:12</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_Paises.ascx">
+      <publishTime>08/08/2013 09:07:05</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_Perfiles.ascx">
+      <publishTime>08/05/2013 08:01:47</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_Secciones.ascx">
+      <publishTime>08/05/2013 08:01:47</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_SeccionesGremios.ascx">
+      <publishTime>08/08/2013 10:45:11</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_TipoAdministracion.ascx">
+      <publishTime>08/05/2013 16:31:20</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_TipoCultivo.ascx">
+      <publishTime>08/05/2013 16:05:54</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_TipoElemento.ascx">
+      <publishTime>08/05/2013 16:05:54</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_Usuarios.ascx">
+      <publishTime>08/05/2013 08:01:47</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_Visor.ascx">
+      <publishTime>08/05/2013 08:49:25</publishTime>
+    </File>
+    <File Include="Controles/Administrador/uc_ZonasPlantacion.ascx">
+      <publishTime>08/08/2013 09:17:22</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/05/2013 08:20:48</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/AddRecord.gif">
+      <publishTime>12/05/2012 16:03:08</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/book-open-list.png">
+      <publishTime>07/09/2012 11:54:53</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/calendar-task.png">
+      <publishTime>06/13/2012 09:51:44</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/clasificacion.png">
+      <publishTime>06/13/2012 09:51:45</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/cross-button.png">
+      <publishTime>07/09/2012 11:54:53</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Delete.gif">
+      <publishTime>06/13/2012 09:51:44</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Edit.gif">
+      <publishTime>07/09/2012 11:54:53</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Eliminar.gif">
+      <publishTime>06/13/2012 09:51:44</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/home.png">
+      <publishTime>07/09/2012 11:54:53</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/key.png">
+      <publishTime>07/09/2012 11:54:53</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/lifebuoy.png">
+      <publishTime>07/09/2012 11:54:53</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/manejo.png">
+      <publishTime>06/13/2012 09:51:44</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/monitor-window-flow.png">
+      <publishTime>06/13/2012 09:51:44</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/recoleccion.png">
+      <publishTime>06/13/2012 09:51:45</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/Refresh.gif">
+      <publishTime>12/05/2012 16:03:08</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/report.png">
+      <publishTime>07/09/2012 11:54:53</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/system-monitor.png">
+      <publishTime>06/12/2012 17:33:57</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/table.png">
+      <publishTime>07/09/2012 11:54:53</publishTime>
+    </File>
+    <File Include="Imagenes/Iconos/tick.png">
+      <publishTime>07/09/2012 11:54:53</publishTime>
+    </File>
+    <File Include="Imagenes/Logos/banner.png">
+      <publishTime>07/23/2013 14:34:44</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/08/2013 10:50:27</publishTime>
+    </File>
+    <File Include="Web.sitemap">
+      <publishTime>08/05/2013 14:36:02</publishTime>
+    </File>
+    <File Include="xml/mnuAdmin.xml">
+      <publishTime>08/08/2013 10:35:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
