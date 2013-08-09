@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Menu>
+  <Group>
+    <Item Text="Inicio" Href="~/Administrador/Default.aspx" LeftLogo="~\Imagenes\Iconos\home.png"></Item>
+    <Item Text="Administración" Href="" LeftLogo="~\Imagenes\Iconos\key.png">
+      <Group Flow="Vertical">
+        <Item Text="Perfiles" Href="">
+          <Group Flow="Vertical">
+            <Item Text="Perfiles" Href="~/Administrador/Perfiles.aspx" target="_self" />
+            <Item Text="Configuración de Perfiles" Href="~/Administrador/PermisosPerfiles.aspx" target="_self" />
+          </Group>
+        </Item>
+        <Item Text="Usuarios" Href="">
+          <Group Flow="Vertical">
+            <Item Text="Usuarios" Href="~/Administrador/Usuarios.aspx" target="_self" />
+            <Item Text="Cuentas de Acceso" Href="~/Administrador/CuentasAcceso.aspx" target="_self" />
+          </Group>
+        </Item>
+      </Group>
+    </Item>
+    <Item Text="Parametrización" Href="" LeftLogo="~\Imagenes\Iconos\table.png">
+      <Group Flow="Vertical">
+        <Item Text="Paises" Href="~/Administrador/Paises.aspx" target="_self" />
+        <Item Text="Departamentos" Href="~/Administrador/Departamentos.aspx" target="_self" />
+        <Item Text="Municipios" Href="~/Administrador/Municipios.aspx" target="_self" />
+        <Item Text="Veredas" Href="~/Administrador/Veredas.aspx" target="_self" />
+        <Item Text="Zonas de Plantación" Href="~/Administrador/ZonaPlantacion.aspx" target="_self" />
+        <Item IsSeparator="True" />
+        <Item Text="Gremios" Href="~/Administrador/Gremios.aspx" target="_self" />
+        <Item Text="Secciones de Gremios" Href="~/Administrador/SeccionesGremios.aspx" target="_self" />
+        <Item IsSeparator="True" />
+        <Item Text="Tipo Administración" Href="~/Administrador/TipoAdministracion.aspx" target="_self" />
+        <Item Text="Tipo Cultivo" Href="~/Administrador/TipoCultivo.aspx" target="_self" />
+        <Item Text="Tipo Elemento" Href="~/Administrador/TipoElementos.aspx" target="_self" />
+      </Group>
+    </Item>
+    <Item Text="Sistema" Href="" LeftLogo="~\Imagenes\Iconos\report.png">
+      <Group Flow="Vertical">
+        <Item Text="Empresas" Href="~/Administrador/Empresas.aspx" target="_self" />
+        <Item Text="Fincas" Href="~/Administrador/Fincas.aspx" target="_self" />
+        <Item Text="Lotes" Href="~/Administrador/Lotes.aspx" target="_self" />
+        <Item Text="Administración" Href="~/Administrador/Administracion.aspx" target="_self" />
+        <Item Text="Reportes" Href="~/Administrador/ReportesEstandar.aspx" target="_self" />
+      </Group>
+    </Item>
+    <Item Text="Visor" Href="~/Administrador/Visor.aspx" LeftLogo="~\Imagenes\Iconos\system-monitor.png" />
+    <Item Text="Ayuda" Href="" LeftLogo="~\Imagenes\Iconos\lifebuoy.png">
+      <Group Flow="Vertical">
+        <Item Text="Manual de Usuario" Href="~/Docs/ManualUsuario.pdf" target="_blank" />
+      </Group>
+    </Item>
+    <Item Text="Salir" Href="~/Logout.aspx" LeftLogo="~\Imagenes\Iconos\cross-button.png"></Item>
+  </Group>
+</Menu>
