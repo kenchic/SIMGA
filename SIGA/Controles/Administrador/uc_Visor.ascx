@@ -1,2 +1,0 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="uc_Visor.ascx.cs" Inherits="SIMGA.Controles.Administrador.uc_Visor" %>
- <iframe src="http://www.arcgis.com/home/webmap/viewer.html?webmap=591d7c40f4694377bb485e99400af2b6"></iframe>
